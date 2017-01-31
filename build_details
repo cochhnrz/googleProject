@@ -3,8 +3,12 @@ I am very unsure as to what im doing so I'm sorry for probable missing details.
 
 The Mainactivity (.java) abd (.xml) files and 5 images have been given in the repository.
 I have managed to make this work using virtual devices provided by Andriod Stuido (I am sure you are more aware of how this works than I am)
-I'd recommend making a basic application on andriod studio and replacing their 'Mainactivty' code files with the two ive linked.
+I'd recommend making a basic application on andriod studio and replacing their 'Mainactivty' code files with the two I've linked.
 The 5 cat images can be dumped into the "drawables" folder of the application. 
 An addition image is on the repository to try to show what I am trying to say in the previous notes.
+
+If this all fails because I've not been clear or I have ommited important information, I do apologise.
+However I have my hours of thoughts and notes reguarding a search auto-complete algorithm that would have been relevant for Task 4.
+It would be wonderful to speak to a 'Googler' about this type of thing.
 
 Thanks - Henry
